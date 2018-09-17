@@ -1,4 +1,4 @@
-package ad33s.trabalho1.interfaces;
+package sd29cp.trabalho1.interfaces;
 
 import java.util.List;
 

@@ -1,6 +1,7 @@
-package ad33s.trabalho1.servidor;
+package sd29cp.trabalho1.servidor;
 
-import ad33s.trabalho1.interfaces.*;
+import sd29cp.trabalho1.interfaces.IPOP;
+import sd29cp.trabalho1.interfaces.msgEmail;
 import java.util.ArrayList;
 import java.util.List;
 

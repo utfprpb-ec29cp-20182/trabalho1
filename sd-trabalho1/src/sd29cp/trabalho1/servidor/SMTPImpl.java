@@ -2,12 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ad33s.trabalho1.servidor;
+package sd29cp.trabalho1.servidor;
 
+import sd29cp.trabalho1.interfaces.msgEmail;
+import sd29cp.trabalho1.interfaces.ISMTP;
 import java.io.*;
 import java.net.*;
 import java.util.*;
-import ad33s.trabalho1.interfaces.*;
 
 /**
  *
